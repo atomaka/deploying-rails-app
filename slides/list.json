@@ -12,7 +12,9 @@
     "let-s-deploy.md",
     "setup-a-middleware.md",
     "setup-a-middleware-for-server.md",
+    "setup-a-middleware-for-server-continued.md",
     "run-a-web-server.md",
     "time-for-the-special-sauce.md",
-    "setup-git-remote.md"
+    "setup-git-remote.md",
+    "resources.md"
 ]

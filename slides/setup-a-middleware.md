@@ -4,12 +4,12 @@
 
 ```
 group :production do
-    gem 'puma'
+  gem 'puma'
 end
 ```
 
 * Configure Puma
-  * config/puma.rb from [https://goo.gl/f36vHg](https://goo.gl/f36vHg)
+  * puma.rb from [https://goo.gl/f36vHg](https://goo.gl/f36vHg)
 
 
 note:
