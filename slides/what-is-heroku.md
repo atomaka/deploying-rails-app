@@ -7,3 +7,6 @@ A service for deploying applications
 * `git push heroku master`
 
 note:
+- Heroku is a little pricey
+- Heroku is not as flexible
+- Heroku IS less complicated

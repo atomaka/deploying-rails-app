@@ -20,4 +20,6 @@ sudo sh -c 'echo "app ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/90-app'
 
 note:
 - What github does when you create a new repository
-- Probably should restrict sudo
+- Should definitely restrict sudo. Just add commands necessary after.
+  - service puma-manager restart
+  - service nginx restart

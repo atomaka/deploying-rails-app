@@ -16,3 +16,4 @@ gem 'therubyracer', platforms: :ruby
 ```
 
 note:
+- Or use nodejs

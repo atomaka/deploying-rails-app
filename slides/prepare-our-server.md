@@ -18,3 +18,4 @@ chsh app -s /bin/bash
 ```
 
 note:
+- Packages can be found by Gooleing for ubuntu ruby rails packages

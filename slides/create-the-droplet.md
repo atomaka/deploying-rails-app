@@ -10,5 +10,5 @@
   * Choose a hostname
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- create A record after if you want it to be permanant or add a hosts entry
+to /etc/hosts to make it easier to find for yourself

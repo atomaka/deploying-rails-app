@@ -8,5 +8,4 @@ bundle exec rake db:migrate
 ```
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- source: https://github.com/atomaka/jokes-rails

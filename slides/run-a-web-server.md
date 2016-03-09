@@ -10,5 +10,3 @@ apt-get install nginx
   * default from [https://goo.gl/f36vHg](https://goo.gl/f36vHg)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

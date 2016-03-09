@@ -13,5 +13,3 @@ sudo cp puma.conf puma-manager.conf /etc/init
 ```
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

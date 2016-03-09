@@ -21,3 +21,5 @@ export SECRET_KEY_BASE="YOUR_SECRET_KEY_HERE"
 ```
 
 note:
+- Key can be generated with rake:
+  - bundle exec secret
