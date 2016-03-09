@@ -1,0 +1,21 @@
+[
+    "index.md",
+    "what-is-heroku.md",
+    "what-chris-says.md",
+    "how-this-works.md",
+    "getting-started.md",
+    "build-a-rails-app.md",
+    "quick-configuration-updates.md",
+    "create-the-droplet.md",
+    "prepare-our-server.md",
+    "install-ruby.md",
+    "let-s-deploy.md",
+    "setup-a-middleware.md",
+    "setup-a-middleware-for-server.md",
+    "setup-a-middleware-for-server-continued.md",
+    "run-a-web-server.md",
+    "time-for-the-special-sauce.md",
+    "setup-git-remote.md",
+    "viola.md",
+    "resources.md"
+]
